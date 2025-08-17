@@ -3,8 +3,7 @@ const homeData = {
   title: "Hi, Faizal Tanjoeng 👋",
   typingTexts: [
     "Frontend Developer",
-    "React Enthusiast",
-    "Tailwind Warrior",
+    "Data Analyst",
   ],
   description: "I build modern, responsive web apps with clean UI and smooth UX blending design and code to create experiences that feel intuitive, fast, and delightful to use.",
 

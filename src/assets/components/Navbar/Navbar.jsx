@@ -50,7 +50,7 @@ export default function Navbar() {
 
   return (
     <nav
-      className={`font-roboto fixed top-0 left-0 w-full z-50 transition-all duration-300 ${
+      className={`font-roboto fixed top-0 left-0 w-full z-[99999] transition-all duration-300 ${
         isScrolling ? "shadow-lg" : ""
       } bg-white dark:bg-slate-900 bg-opacity-90`}
     >
@@ -90,7 +90,7 @@ export default function Navbar() {
       {/* Mobile Menu Dropdown */}
       <div
         ref={menuRef}
-        className={`fixed top-0 right-0 h-full w-2/4 max-w-xs bg-white dark:bg-slate-900 z-50 transform transition-transform duration-300 md:hidden ${
+        className={`fixed top-0 right-0 h-full w-2/4 max-w-xs bg-white dark:bg-slate-900 z-[99999] transform transition-transform duration-300 md:hidden ${
           isOpen ? "translate-x-0" : "translate-x-full"
         }`}
       >

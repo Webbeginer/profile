@@ -20,7 +20,7 @@ const aboutData = {
 
     aboutNarrative: {
         whoAmI: {
-            text: `Hi! I'm a frontend developer passionate about building clean, interactive, and responsive UIs. With a background in Informatics Engineering, I combine creativity and logic to bring great designs to life on the web.`,
+            text: `I build modern, responsive web apps with clean UI and smooth UX, blending design and code to create intuitive experiences. I’m also a data analyst, transforming complex data into meaningful insights.`,
             icon: " bx bx-info-circle"
         },
         medSos: {

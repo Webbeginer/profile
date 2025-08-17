@@ -15,14 +15,22 @@ const skillsData = {
       ]
     },
     {
+      title: "Data Analysis",
+      icon: "bx bx-bar-chart-alt-2",
+      skills: [
+        { name: "Excel", icon: "bx bx-table", level: "Advanced" },
+        { name: "Python", icon: "bx bxl-python", level: "Advanced" },
+        { name: "Pandas", icon: "bx bx-data", level: "Advanced" },
+        { name: "SQL", icon: "bx bx-data", level: "Intermediate" }
+      ]
+    },
+    {
       title: "Other Tools",
       icon: "bx bx-wrench",
       skills: [
         { name: "Git", icon: "bx bxl-git", level: "Advanced" },
         { name: "GitHub", icon: "bx bxl-github", level: "Advanced" },
-        { name: "Figma", icon: "bx bxl-figma", level: "Intermediate" },
         { name: "Vercel", icon: "bx bx-upload", level: "Intermediate" },
-        { name: "Netlify", icon: "bx bx-cloud-upload", level: "Intermediate" },
         { name: "Postman", icon: "bx bx-send", level: "Intermediate" }
       ]
     }
