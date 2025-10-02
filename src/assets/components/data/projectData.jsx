@@ -14,20 +14,20 @@ const projectData = {
 
       ],
       tech: ["Next", "tailwind"],
-      demo: "#home",
+      demo: "https://online-shop-eight-ruddy.vercel.app/product",
       github: "#home"
     },
     {
-      icon: "bx bx-globe",
-      title: "Organization Portfolio",
-      features: [
-        "Boosttrap UI",
-        "Animation",
-        "Simple Design",
-      ],
-      tech: ["bootstrap", "animation"],
-      demo: "#home",
-      github: "#home"
+      icon: "bx bx-bar-chart-alt-2",
+      title: "COVID-19 Data Visualization",
+     features: [
+                "Interactive Dashboard",
+                "Case & Spread Analysis",
+                "Daily & Regional Trend Visualization",
+              ],
+      tech: ["Tableau", "Data Analytics"],
+      demo: "https://public.tableau.com/app/profile/faizal.tablue/viz/covid-19_17594152074590/Story1?publish=yes", // bisa ganti dengan link demo Tableau kamu
+      github: "#"
     }
   ]
 };

@@ -20,8 +20,10 @@ const skillsData = {
       skills: [
         { name: "Excel", icon: "bx bx-table", level: "Advanced" },
         { name: "Python", icon: "bx bxl-python", level: "Advanced" },
-        { name: "Pandas", icon: "bx bx-data", level: "Advanced" },
-        { name: "SQL", icon: "bx bx-data", level: "Intermediate" }
+        { name: "Pandas", icon: "bx bx-table", level: "Advanced" },
+        { name: "SQL", icon: "bx bx-data", level: "Intermediate" },
+        { name: "Tableau", icon: "bx bx-bar-chart-alt-2", level: "Intermediate" },
+        { name: "Matplotlib", icon: "bx bx-line-chart", level: "Intermediate" }
       ]
     },
     {
