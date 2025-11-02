@@ -8,9 +8,9 @@ const HomeSection= ()=>{
     return(
         <>
            <LayoutSection id="home" >
-                <div className="flex flex-col-reverse lg:flex-row items-center justify-between w-full max-w-screen overflow-x-hidden px-6 gap-10">
-                    {/* Kiri: Teks */}
-                    <div className="w-full lg:w-1/2 flex flex-col justify-center items-start text-left gap-4 -mt-[50px]">
+                <div className="flex flex-col-reverse lg:flex-row items-center justify-between w-full max-w-screen-xl overflow-x-hidden px-4 sm:px-6 gap-6 mx-auto">
+                   
+                    <div className="w-full lg:w-1/2 flex flex-col justify-center items-start text-left gap-4 -mt-[50px] overflow-hidden">
                     <h4 className="text-3xl lg:text-4xl font-bold text-slate-800 dark:text-white font-roboto">
                         Hi, Faizal Tanjoeng 👋
                     </h4>
@@ -37,7 +37,7 @@ const HomeSection= ()=>{
                     </div>
 
                     {/* Kanan: Card (kosong, bisa isi ChromaGrid atau gambar) */}
-                    <div className="w-full lg:w-1/2 flex justify-center">
+                    <div className="w-full lg:w-1/2 flex justify-center overflow-hidden">
                     <Lanyard position={[0, 0, 15]} gravity={[0, -40, 0]} />
                     </div>
                 </div>
