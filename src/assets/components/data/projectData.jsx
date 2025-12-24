@@ -14,7 +14,7 @@ const projectData = {
 
       ],
       tech: ["Next", "tailwind"],
-      demo: "https://online-shop-eight-ruddy.vercel.app/product",
+      demo: "https://kang-geprek.vercel.app/",
       github: "#home"
     },
     {
