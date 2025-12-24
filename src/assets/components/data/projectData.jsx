@@ -6,9 +6,9 @@ const projectData = {
   projects: [
     {
       icon: "bx bx-shopping-bag",
-      title: "fake store",
+      title: "geprek store",
       features: [
-        " Auth + Database",
+        " Database",
         " Firebase",
         " Tailwind",
 
