@@ -6,7 +6,7 @@ const skillsData = {
       title: "Frontend",
       icon: "bx bx-code-alt",
       skills: [
-        { name: "HTML", icon: "bx bxl-html5", level: "Advanced" },
+        { name: "PHP", icon: "bx bxl-php", level: "Intermediate" },
         { name: "CSS", icon: "bx bxl-css3", level: "Advanced" },
         { name: "JavaScript", icon: "bx bxl-javascript", level: "Advanced" },
         { name: "React", icon: "bx bxl-react", level: "Advanced" },
