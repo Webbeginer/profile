@@ -11,7 +11,7 @@ const skillsData = {
         { name: "JavaScript", icon: "bx bxl-javascript", level: "Advanced" },
         { name: "React", icon: "bx bxl-react", level: "Advanced" },
         { name: "Tailwind CSS", icon: "bx bxl-tailwind-css", level: "Advanced" },
-        { name: "Laravel", icon: "bx bxl-laravel", level: "Intermediate" }
+        { name: "Laravel", icon: "fa-brands fa-laravel", level: "Intermediate" }
       ]
     },
     {
