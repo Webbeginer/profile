@@ -3,7 +3,7 @@ const skillsData = {
   subtitle: "Tools and technologies I’ve mastered or currently exploring.",
   categories: [
     {
-      title: "Frontend",
+      title: "Web Dev",
       icon: "bx bx-code-alt",
       skills: [
         { name: "PHP", icon: "bx bxl-php", level: "Intermediate" },
@@ -11,7 +11,7 @@ const skillsData = {
         { name: "JavaScript", icon: "bx bxl-javascript", level: "Advanced" },
         { name: "React", icon: "bx bxl-react", level: "Advanced" },
         { name: "Tailwind CSS", icon: "bx bxl-tailwind-css", level: "Advanced" },
-        { name: "Vite", icon: "bx bx-bolt-circle", level: "Intermediate" }
+        { name: "Laravel", icon: "bx bxl-laravel", level: "Intermediate" }
       ]
     },
     {
